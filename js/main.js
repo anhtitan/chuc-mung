@@ -380,7 +380,7 @@ var ParticlePool = (function () {
 
 
 
-var audio = new Audio("/audio/main.mp3");
+var audio = new Audio("nhacnen.mp3");
 
 function play() {
   var audio = document.getElementById("audio");
