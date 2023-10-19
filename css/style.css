@@ -2,12 +2,12 @@ html, body {
     height: 100%;
     padding: 0;
     margin: 0;
-    background: #000;
+    background: #ffffff;
     overflow-x: hidden;
     overflow-y: hidden;
     background: linear-gradient(-45deg, #d50a7d, #2c6c9a, #46788f, #d12464);
-    animation: gradient 8s ease infinite;
-    background-size: 400% 400%;
+    animation: gradient 4s ease infinite;
+    background-size: 600% 600%;
 }
   
 canvas {

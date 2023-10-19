@@ -1,4 +1,4 @@
-const nameGirl = 'Em';
+const nameGirl = 'Bùi Kiều';
 const giftUrl = 'https://www.facebook.com/100001285178636';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Tặng Bùi Thị Kiều';

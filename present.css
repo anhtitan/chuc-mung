@@ -164,7 +164,7 @@ html, body {
     text-align: center;
     width: 100%;
     font-size: 1.1rem;
-    color: green;
+    color: rgb(203, 10, 225);
   }
   .present-box > .side.bottom {
     transform: rotateX(90deg) translateY(100px);
